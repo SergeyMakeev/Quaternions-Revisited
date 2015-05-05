@@ -54,20 +54,22 @@ Copyright (c) Microsoft Corporation. All rights reserved.
 This sample illustrates the article Quaternions revisited.
 Is a simple but at the same time, the complete pipeline for graphic resources based on quaternions.
 
-The following pipeline parts are shown in sample
-- Geometry importer from Autodesk FBX, calculation of aligned quaternions from TBN.
-- Animation importer from Autodesk FBX, calculation of aligned quaternions for animation data
+The following pipeline parts are shown in sample:
+
+ Geometry importer from Autodesk FBX, calculation of aligned quaternions from TBN.
+ Animation importer from Autodesk FBX, calculation of aligned quaternions for animation data
 
 Also in the example is implemented runtime part for rendering imported data.
-- Animation player that stores bones data in the texture for easy use instancing for animated geometry.
-- Geometry render that use geometry instancing. Rendering support animations and normal mapping using quaternions.
+
+ Animation player that stores bones data in the texture for easy use instancing for animated geometry.
+ Geometry render that use geometry instancing. Rendering support animations and normal mapping using quaternions.
 
 
 *  Requires:
 
-- Microsoft Visual Studio 2010
-- Microsoft DirectX SDK (executable compiled with DirectX SDK June 2010)
-- Autodesk FBX SDK (executable compiled with FBX SDK 2014.1)
+ Microsoft Visual Studio 2010
+ Microsoft DirectX SDK (executable compiled with DirectX SDK June 2010)
+ Autodesk FBX SDK (executable compiled with FBX SDK 2014.1)
 
 
 *  Building:
