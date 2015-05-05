@@ -1,6 +1,4 @@
-*************************
 *  Introduction:
-*************************
 
 Sample code for a 'Quaternions revisited' article from GPU Pro 5
 
@@ -11,9 +9,7 @@ Sample code accompanying the article
 Author: Sergey Makeev
 
 
-*************************
 *  License:
-*************************
 
   Copyright (c) 2013, Sergey Makeev
 
@@ -53,9 +49,8 @@ Parts of the code are based on examples from the DirectX SDK June 2010
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 
-*************************
 *  Information:
-*************************
+
 This sample illustrates the article Quaternions revisited.
 Is a simple but at the same time, the complete pipeline for graphic resources based on quaternions.
 
@@ -68,17 +63,15 @@ Also in the example is implemented runtime part for rendering imported data.
 - Geometry render that use geometry instancing. Rendering support animations and normal mapping using quaternions.
 
 
-*************************
 *  Requires:
-*************************
+
 - Microsoft Visual Studio 2010
 - Microsoft DirectX SDK (executable compiled with DirectX SDK June 2010)
 - Autodesk FBX SDK (executable compiled with FBX SDK 2014.1)
 
 
-*************************
 *  Building:
-*************************
+
 You should set up next environment variables:
 
 DXSDK_DIR (Usually set automatically by DX SDK installer)
@@ -90,9 +83,8 @@ Example: C:\Program Files\Autodesk\FBX\FBX SDK\2014.1\
 When the required environment variables are set, you can open QuaternionsRevisited.sln and build solution.
 
 
-*************************
 *  Acknowledgements:
-*************************
+
 Special thanks for Konstantin Antipov for helping with assets for the sample.
 All graphical assets courtesy of Mail.Ru Group.
 
