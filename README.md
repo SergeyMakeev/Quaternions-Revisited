@@ -8,6 +8,8 @@ Authors: Peter Sikachev, Sergey Makeev, Vladimir Egorov
 Sample code accompanying the article
 Author: Sergey Makeev
 
+![alt tag](https://raw.githubusercontent.com/SergeyMakeev/Quaternions-Revisited/master/preview.jpg)
+
 
 ## License:
 
